@@ -1,0 +1,46 @@
+{
+  "project_name": "",
+  "target_audience": "",
+  "duration_seconds": 30,
+  "format": "9:16",
+  "tone": "cinematic premium emotional",
+  "language": "ru",
+  "destination": "",
+  "hook": "",
+  "primary_message": "",
+  "cta": "",
+  "scenes": [
+    {
+      "index": 1,
+      "timecode": "0:00-0:04",
+      "location": "",
+      "shot_type": "",
+      "visual": "",
+      "text_on_screen_ru": "",
+      "subtitle_ru": "",
+      "voiceover_ru": "",
+      "music_mood": "",
+      "motion": "",
+      "transition": "",
+      "effects": [],
+      "text_position": "",
+      "font": "",
+      "notes": ""
+    }
+  ],
+  "asset_gaps": [],
+  "source_recommendations": [],
+  "music_plan": [],
+  "capcut_plan": {
+    "timeline_order": [],
+    "transitions": [],
+    "color_grade": "",
+    "export_settings": {
+      "resolution": "1080x1920",
+      "fps": 30,
+      "format": "mp4",
+      "codec": "H.264"
+    }
+  },
+  "final_production_notes": ""
+}
